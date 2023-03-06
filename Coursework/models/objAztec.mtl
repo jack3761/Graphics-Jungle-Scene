@@ -1,0 +1,8 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -mm_0_0.831325_ground006.jpg
+bump  -bm 1 ground006b.jpg
+Ni 1.00

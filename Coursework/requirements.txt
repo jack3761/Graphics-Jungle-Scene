@@ -1,0 +1,6 @@
+The following packages must be imported and running on python 3.6:
+
+pygame - https://www.pygame.org
+numpy
+pyopengl https://pypi.org/project/PyOpenGL/
+math.py

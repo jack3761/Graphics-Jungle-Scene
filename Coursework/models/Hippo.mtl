@@ -1,0 +1,13 @@
+# Blender MTL File: 'Hippo.blend'
+# Material Count: 1
+
+newmtl hippomat
+Ns 625.421349
+Ka 0.520000 0.520000 0.520000
+Kd 0.800000 0.387898 0.005130
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd hippomatim.png
